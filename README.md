@@ -1,3 +1,11 @@
-- Hello, My name is Eric Ross. I am studying Data Science with Practicum. I am currently most intrested in machine learning algorithms 
+- Hello, My name is Eric Ross. 
 
+I am studying Data Science @ Practicum.
+
+Html
+Css
+
+Python
+R
+Sql
 
