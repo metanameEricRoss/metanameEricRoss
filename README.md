@@ -1,13 +1,14 @@
 - Name: Eric Ross.
 - Field: Data Science.
 - Experience: over 1 Year.
-- Education: Practicum DataScience. 
+- Education: Practicum DataScience (Certificate)
+- 2023 Goal - Break into the data science or data analyitics field. 
 
-Tools fimiliar with. 
 - Python
     - Pandas
     - Numpy
     - Matplotlib
+          - Seaborn
     - Scikitlearn.
 - SQL
 - Tableau
