@@ -16,7 +16,7 @@
 
 ## Interested most in...
 
-I have always had a passion for statistics and computer science. Specifically how data can reveal some much about businesses and their customers. 
+I have always had a passion for statistics and computer science. Specifically how data can reveal so much about businesse operations, preformance and customer behaviour. 
 
 
 
