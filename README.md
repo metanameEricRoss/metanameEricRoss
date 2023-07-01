@@ -1,9 +1,9 @@
-- Name: Eric Ross.
-- Field: Data Science.
-- Experience: over 1 Year.
+# Hello my name is Eric Ross, I am starting my journey into the world of Data Science. 
+
 - Education: Practicum DataScience (Certificate)
 - 2023 Goal - Break into the data science or data analyitics field. 
 
+## skills and tools 
 - Python
     - Pandas
     - Numpy
@@ -14,10 +14,9 @@
 - Tableau
 - Dask
 
+## Interested most in...
 
-Optimzation Junkie, Elegant Code Enthusiast , Quality Charting and Plots. 
-
-"True wisdom is the continuous effort to improve our mind." ~ Plato
+I have always had a passion for statistics and computer science. Specifically how data can reveal some much about businesses and their customers. 
 
 
 
