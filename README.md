@@ -1,4 +1,4 @@
-# Eric Ross - Data Science Portfolio
+# Eric Ross - Data Science / Data Analysis
 
 ## Introduction
 Hello, my name is Eric Ross, and I am starting my journey into the world of Data Science. I have a strong passion for statistics and computer science, and I am fascinated by how data can reveal valuable insights about business operations, performance, and customer behavior.
