@@ -1,18 +1,12 @@
 # Eric Ross
-## Data Science, Data Analysis, Business Analysis
+## Data Science, Computer Science, and Artifical Intellegence
 
 ## Introduction
-Hello, my name is Eric Ross, and I am starting my journey into the world of Data Science. I have a strong passion for statistics and computer science, and I am fascinated by how data can reveal valuable insights about business operations, performance, and customer behavior.
+Hello, my name is Eric Ross, and I am starting my Computer Science journey at Oakland University. I have a strong passion for statistics and computer science, and I am fascinated by how data can reveal valuable insights about business operations, performance, and customer behavior.
 
 ## Education
 - **Practicum Data Science** (*Certificate*)
     - **Status:** Complete
-- **Google Data Analytics Professional** (*Certificate*)
-    - **Status:** In Progress
-- **Tableau Business Intelligence Analyst Professional** (*Certificate*)
-    - **Status:** In Progress
-- **Excel to MySQL: Analytic Techniques for Business** (*Specialization*)
-    - **Status:** In Progress
 
 ## Skills and Tools
 - **Analytical Skills:**
@@ -30,6 +24,7 @@ Hello, my name is Eric Ross, and I am starting my journey into the world of Data
 - **Programming:**
   - **Python:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
   - **SQL:** MySQL, PostgreSQL, Excel-to-MySQL
+  - **C++**:
 
 ---
 
@@ -44,7 +39,7 @@ Feel free to explore this article to gain insights into churn prediction pipelin
 ---
 
 ## Contact Information
-- **Email:** 08cire.eric99@gmail.com
+- **Email:** EricRobertRoss@gmail.com
 - **LinkedIn:** [linkedin.com/in/eric-r-ross](https://www.linkedin.com/in/eric-r-ross)
 - **Medium:** [medium.com/@08cire.eric99](https://medium.com/@08cire.eric99)
 
