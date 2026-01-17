@@ -10,8 +10,9 @@ My background blends analytical thinking, programming, and a growing foundation 
 
 ## 🎓 Education  
 - **Practicum Data Science** — *Certificate*  
-  **Status:** Complete  
-
+  **Status:** Complete
+- **Oakland University** - *Bachelors*
+  **Status:** In-progress -- exp. 2028
 ---
 
 ## 🛠️ Skills & Tools  
