@@ -1,21 +1,21 @@
 # Eric Ross  
 ### Data Science • Computer Science • Artificial Intelligence  
 
-## 👋 Introduction  
+## Introduction  
 I’m Eric Ross, currently pursuing Computer Science at Oakland University with a strong focus on data science, machine learning, and statistical reasoning. I’m driven by the challenge of transforming raw data into meaningful insights that support decision‑making, business strategy, and real‑world problem solving.
 
 My background blends analytical thinking, programming, and a growing foundation in AI — and I’m continually expanding my skills through projects, certifications, and hands‑on learning.
 
 ---
 
-## 🎓 Education  
+## Education  
 - **Practicum Data Science** — *Certificate*  
   **Status:** Complete
 - **Oakland University** - *Bachelors*
   **Status:** In-progress -- exp. 2028
 ---
 
-## 🛠️ Skills & Tools  
+## Skills & Tools  
 
 ### **Analytical & Business Skills**  
 - Business Analysis  
@@ -36,7 +36,7 @@ My background blends analytical thinking, programming, and a growing foundation 
 
 ---
 
-## ✍️ Writing & Publications  
+## Writing & Publications  
 
 ### **Churn Prediction Pipelines for Telecom**  
 A walkthrough of building churn prediction systems tailored for telecom data — covering feature engineering, model selection, evaluation metrics, and practical considerations for deployment.
