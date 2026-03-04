@@ -2,7 +2,7 @@
 ### Data Science • Computer Science • Artificial Intelligence  
 
 ## Introduction  
-I’m Eric Ross, currently pursuing Computer Science at Oakland University with a strong focus on data science, machine learning, and statistical reasoning. I’m driven by the challenge of transforming raw data into meaningful insights that support decision‑making, business strategy, and real‑world problem solving.
+I’m Eric Ross, currently pursuing Computer Science at Oakland University with a strong focus on data science, machine learning, and statistical reasoning. I’m driven by the challenge of transforming raw data into meaningful insights that support decision‑making, business strategy, and real‑world problem-solving.
 
 My background blends analytical thinking, programming, and a growing foundation in AI — and I’m continually expanding my skills through projects, certifications, and hands‑on learning.
 
@@ -32,24 +32,23 @@ My background blends analytical thinking, programming, and a growing foundation 
 ### **Programming**  
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn, Scikit‑learn  
 - **SQL:** MySQL, PostgreSQL, Excel‑to‑MySQL  
-- **C++:** Fundamentals and problem‑solving  
+- **C++:** Fundamentals and problem‑solving
+- **Java:** Fundamentals and problem-solving
 
----
+===
 
 ## Writing & Publications  
 
 ### **Churn Prediction Pipelines for Telecom**  
-A walkthrough of building churn prediction systems tailored for telecom data — covering feature engineering, model selection, evaluation metrics, and practical considerations for deployment.
+A walkthrough of building churn prediction systems tailored for telecom data — covering feature engineering, model selection, evaluation metrics, and practical deployment considerations.
 
 Read it on Medium to explore the full pipeline and methodology.
 
----
+===
 
-## 📬 Contact  
+##  Contact  
 - **Email:** EricRobertRoss@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/eric-r-ross  
 - **Medium:** https://medium.com/@08cire.eric99  
-
-I’m open to collaborations, project opportunities, and conversations related to data science, AI, and software development.
 
 
